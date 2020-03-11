@@ -1,0 +1,12 @@
+.homepage-layout{
+  display: grid;
+  grid-template-columns: 12vw 5vw 75vw 10vw ;
+  grid-template-rows: auto auto auto auto auto auto auto 10vh 10vh 10vh;
+}
+.logotypeface{
+  width:12vw;
+  height:auto;
+  display:block;
+  //grid-row:span 2;
+  padding:0;
+}
